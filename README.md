@@ -18,10 +18,10 @@
             width: auto; /* Maintain aspect ratio */
         }
         table {
-            width: 20%;
+            width: 10%;
             border: 2px solid blue;
             border-collapse: collapse;
-            margin-left: 100px; /* Adds space to the left of the menu */
+            margin-left: 100px;
         }
         caption {
             color: blue;
